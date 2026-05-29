@@ -1,6 +1,9 @@
-Klaro – endelige filer for GitHub Pages
+Klaro – oppdatert forside
 
-Last opp ALLE filene i denne ZIP-pakken til repositoryet ditt. Ikke last opp ZIP-filen direkte.
+Endring i denne versjonen:
+- Hero-overskriften er endret fra “Kontroll på prosessanlegget – på minutter, ikke uker.” til “Prosessanlegg – på minutter, ikke uker.”
+
+Last opp alle filene i ZIP-pakken til GitHub-repositoryet ditt, og ikke last opp selve ZIP-filen.
 
 Filer:
 - index.html
@@ -17,21 +20,4 @@ Filer:
 - klaro-video-poster.jpg
 - README.txt
 
-Valgfri video:
-Hvis du vil vise video på nettsiden, last opp en MP4-fil med navnet:
-- klaro-demo.mp4
-
-Nettsiden er allerede satt opp til å vise klaro-demo.mp4 dersom filen finnes. Hvis videoen ikke finnes, vises en pen placeholder.
-
-Kontaktadresse brukt på siden:
-- kontakt@klaro.no
-
-GitHub Pages:
-1. Pakk ut ZIP-filen.
-2. Last opp alle filene i repositoryet.
-3. Commit changes.
-4. Gå til Settings → Pages.
-5. Source: Deploy from a branch.
-6. Branch: main.
-7. Folder: /root.
-8. Save.
+Video er fortsatt valgfritt. Hvis du senere vil legge inn video direkte i GitHub, må filen hete klaro-demo.mp4.
